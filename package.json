@@ -1,0 +1,9 @@
+{
+      "name": "synth-keyboard",
+      "scripts": {
+            "dev": "vite"
+      },
+      "devDependencies": {
+            "vite": "^6.0.6"
+      }
+}
